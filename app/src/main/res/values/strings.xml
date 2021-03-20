@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fedorinchik_hw4</string>
+    <string name="bnv_1">colors</string>
+    <string name="bnv_2">colorist</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color_name">color</string>
+    <string name="text_color_code">code</string>
+    <string name="hex_buff">Копировать hex код</string>
+    <string name="game_hex_name">hex name</string>
+</resources>

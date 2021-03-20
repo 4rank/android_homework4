@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/startFragment"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="@string/bnv_1"/>
+        <item
+            android:id="@+id/gameFragment"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/bnv_2" />
+</menu>

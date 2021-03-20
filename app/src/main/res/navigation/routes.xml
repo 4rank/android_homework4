@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/routes"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.example.fedorinchik_hw4.StartFragment"
+        android:label="start_fragment"
+        tools:layout="@layout/fragment_start" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.example.fedorinchik_hw4.GameFragment"
+        android:label="game_fragment"
+        tools:layout="@layout/fragment_game" >
+    </fragment>
+
+</navigation>
